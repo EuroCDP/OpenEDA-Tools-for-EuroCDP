@@ -1,6 +1,6 @@
 # Conclusions
 
-This document described open-source tool flows in the domains of digital, analog, mixed signal, radio frequency and photonics integrated circuit design. The typical flows in each domain were described, existing options for open-source tools listed, and their features compared. Then a gap analysis highlighting the most critical gaps with regards to implementing a full design flow was presented. Finally, recommendations were given for tools to be used in each of the domains.
+This document described open-source tool flows in the domains of digital, analog, mixed signal, radio frequency and photonics integrated circuit design. The typical flows in each domain were described, existing options for open-source tools listed, and their features compared. Then a gap analysis highlighting the most critical gaps with regards to implementing a full design flow was presented. Finally, recommendations were given for tools to be used in each of the domains. These tools we will installed within EuroCDP central cloud.
 
 For digital design, there exist two major frameworks, **OpenROAD** and **LibreLane** that seem to have been widely adopted by the community in recent years. Multiple tapeouts have been done with the tools and there do not seem to be major gaps in the toolflows. However, functionalities such as DFT support have been added quite recently and are not extensive.
 
